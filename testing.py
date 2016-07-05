@@ -2,4 +2,5 @@
 def main():
     print 'Hello'  
     print 'What it do'
+    print 'YOLO'
 main()
